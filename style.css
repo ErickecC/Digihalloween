@@ -1,0 +1,39 @@
+body {
+    background: #E6F7FF;
+    height: 100vh;
+}
+figure {
+    margin-bottom: 30px;
+}
+#ajolote-img{
+    width: 100%;
+    height: auto;
+}
+figcaption{
+    display: flex;
+    justify-content: center;
+}
+figcaption {
+    font-size: 20px;
+}
+.btn-continuar{
+    width: 90%;
+    height: 7%;
+    margin: auto;
+    display: block;
+    border: none;
+    background: #007AFF;
+    color: white;
+    border-radius: 20px;
+    font-size: 1em;
+}
+.btn-continuar:hover{
+    background: #2b58ff;
+}
+
+footer {
+    display: flex;
+    opacity: 0.5;
+    justify-content: center;
+    margin-top: 180px;
+}
